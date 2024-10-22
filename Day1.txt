@@ -1,0 +1,38 @@
+1. java program basics 
+A. what is programming?
+B. Why java?
+C. How to compile java code?
+D. How to run java code?
+E. where the program data stored while working with java?
+F. What is Identifier? and why do we need It?
+F. What are the phases in the compiles and how the source code is converted into byte code(basic Idea of all phases)
+G. What is the use of reserved keyword
+H. How many reserved keywords are there in java and what are they?
+I. why java is strongly typed language?
+J. what are the data types present in java?
+K. What is the difference between primitive and non-primitive DATA TYPES(Examples)
+L. what is the main difference between linear and non-linear datatypes (Examples)
+M. what is the purpose of main method in java
+N. why main method is "public static void main(String[] args)"
+O. Can I write main() as "private int main(int[] args)". explain why?
+P. Why we use "System.out.println()" method to print data into the console.
+Q. Is java Fully Object oriented programming language? explain why.
+R. What is the difference between Interpreter and compiler.
+S. Write a java program to print "Hello World".
+T. Write a java program to Store your details in suitable variable types and print them to the console 
+U. What is string concatenation
+V. write a java program to print 2 table in the format of "2 * 1 = 2". Don't use loops just print 10 lines using println();
+W. rules to define java Identifiers/Variables 
+X. Naming conventions which defines, how the name of the variable should be. Example class name stats with capital letter.
+Y. Skeleton of java or Java Coding standards 
+Z. can I create multiple classes in a single java source file. say yes or no.
+
+
+1. Java Programs.
+A. Hello World program
+B. write a java program to find whether the given number is EVEN or ODD
+C. Write a java Program to print the odd number in the given range 
+D. how can we define whether the number is prime or not? (general question not related to program)
+E. What is an algorithm and write an algorithm for prime numbers 
+F. write a java program to find whether the given number is prime or not
+G. write a java program to print prime numbers in the given range
