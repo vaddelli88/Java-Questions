@@ -1,0 +1,36 @@
+A. What are the ranges of the primitive data types?
+B. Why is the purpose of wrapper classes?
+C. What is Auto Boxing and Auto unboxing?
+D. What is literal/value?
+E. Different types of literals
+F. Different types of integral literals
+G. Different types of character literals
+H. How Negative values are stored in System
+I. What is an Array
+J. Why do we need to use array while we can manage with primitives
+K. how to create an array in java? (Declaration, Initialization and Creation)
+L. Is there any limit for maximum allowed elements in an array. why?
+M. Different ways to access an element of an array 
+N. What is the special loop that is especially designed for arrays or for iterating through group of elements 
+O. How to find the length of the array
+P. Difference between length and length()
+Q. what is array inside array and How the mechanism works
+R. How multidimensional arrays are created in java
+S. How the values are storing in a multidimensional array
+T. Why arrays are fixed in size.
+U. Write a java program to create an array that can store 1-100 numbers 
+V. what is anonymous array
+W. Why do we need anonymous array
+X. Write a java program that can increment the values of an array by 10.
+Y. Why arrays are type safe
+Z. Why arrays are initialized using new keyword.
+
+
+Programs:
+1. Tow dies are rolled for 10 times, create an array to store the each combination of Outcome and add the result of each combination and store the result in another array. find the total sum of all combination and print the result
+Example:
+	{1,1},{1,1},{1,1},{1,1},{1,1},{1,1},{1,1},{1,1},{1,1},{1,1}
+	If this is the input then the output should be 20
+
+	Note: the input should accept only numbers between 1-6 if user tries to add other then this prompt the user "You entered an incorrect input" and exit the program.
+	
