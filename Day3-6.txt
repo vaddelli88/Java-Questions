@@ -1,0 +1,86 @@
+A. Can we initialize an array with specified elements.
+B. what is the main purpose of anonymous array. And why do we need it
+C. what is the main purpose of loops and why do we need them.
+D. What are the loops available in java.
+E. What is the difference between for and while loop.
+F. Syntax for 'for' loop
+G. Syntax for 'while' loop
+H. Syntax for 'do-while' loop
+I. Is there any specific loop that focuses only on clustered values/objects like arrays/collections
+J. Syntax for 'for-each' loop
+K. write a java program to store multiple values in a single variable/Identifier reference. and print the length of the array.
+L. Write a java to increment the values of the array by 1.
+	Example: {1,2,3,4,5,6} the output should be {2,3,4,5,6,7}
+M. What is the main purpose of conditional statements and what are they
+N. Syntax for 'if' statement
+O. Syntax for 'if-else' statement
+P. Syntax for 'else-if' ladder 
+Q. Syntax for 'switch' statement
+R. write a java program to increment the alternate values by 10 of an array
+	Example: {1,2,3,4,5,6} the output should be {11, 2, 13, 4, 15, 6}
+S. write a program to store and print even number of an array
+	Example: {1,2,3,4,5,6,7,8,9,10}  store {2,4,6,8} and print them in same line 
+	Hint: use print() instead of println()
+
+programs on loops:
+T. write a java program to print 
+	1
+	1 2 
+	1 2 3
+	1 2 3 4
+
+U. write a java program to print 
+	1 2 3 4 5
+	1 2 3 4
+	1 2 3
+	1 2
+	1
+
+V. write a java program to print
+	1 2 3 4 5 6 7 8 9 10
+	1 2 3 4 5 6 7 8
+	1 2 3 4 5 6 7 8
+	1 2 3 4 5 6 7
+	1 2 3 4 5
+	1 2 3 4 5
+	1 2 3 4
+	1 2
+	1 2 
+	1
+	Output should be in same format 
+
+W. Complete the program in 'Day2.txt' file
+X. Write an example program whare you work with 'switch' statement
+Y. Write a java program to demonstrate the syntaxes of all loops and condition statements 
+Z. write a java program to demonstrate the syntaxes of all types of arrays and use length on at least one array
+	Example:
+		one dimensional array declaration, initialization, accessing elements using index
+		two dimensional array declaration, initialization, accessing elements using index
+		find base length of those two arrays 
+		array creation in a single line 
+		anonymous array (note: use static method which returns nothing)
+
+
+Programs:
+	1. write a program to calculate the absolute time difference in seconds between two time stramps 
+	Example: the time difference between 10:33:01 and 10:33:51 is 50 seconds 
+
+	2. write a program to find number of matches in a string(Note the index of the character should be same from both ends)
+	Example: abcdcaa total matches are 3 [a,c,d]
+
+	3. write a program to find number of pairs are there in an array consecutively 
+	Example:
+		Input format:
+		total values = 11;
+		ON OFF OFF ON ON OFF ON OFF ON ON OFF 
+
+		Explanation 
+		pair1 : [index 0,1]
+		pair2 : [2,3]
+		pair3 : [4,5]
+		pair4 : [6,7]
+		pair5 : [7,8]
+		pair6 : [9,10]
+
+		Output:
+		6 
