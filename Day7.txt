@@ -1,0 +1,25 @@
+A. What is a variable.
+B. How many types of variables are there in Java based on type and what are they
+C. How many types of variables are there in Java Based on Location 
+E. What is the reason behind having different types of variables
+F. What is a static variable
+G. How can we define a static variable
+H. How can we access a static variable in same class (All possible ways)
+I. How can we access a static variable in other class (All possible ways)
+J. How can we define an instance variable
+K. How can we access an instance variable in same class (All possible ways)
+L. How can we access an instance variable in other class (All possible ways)
+M. What is the difference between instance and static variable.
+N. What is a local variable and why do we need it 
+O. what is the scope of a local variable 
+P. What is the scope of an instance variable 
+Q. What is the scope of a Static variable
+R. Why static variables are not recommended to change using object reference
+S. What is primitive type variable
+T. What is reference type variable
+U. Write two java programs with all types[position] of variables in those two classes
+V. Write a java program and try to call instance and static variables in static and instance methods using all valid syntaxes.
+W. What is the difference between Instance and static method
+X. why do we need return type for any method 
+Y. what are the allowed return types in java for a method
+Z. Write a java program to Demonstrate multidimensional array 
