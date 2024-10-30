@@ -1,0 +1,26 @@
+A. what are var-arg methods in java?
+B. How to create a var-arg method?
+C. What is the difference between Var-arg methods and methods which can take Array as Arguments 
+D. Create a var-arg methods and try to call that method using all possible inputs including arrays
+E. Can I create a var-arg method to represent two dimensional array 
+F. Can I create a var-arg within a method which takes multiple inputs
+G. Is it necessary to define var-arg at the end of all arguments in a method
+H. What is the priority of var-arg methods as compared to normal methods
+I. Find Maximum and minimum in an Array
+J. Sum and average of Elements in an Array
+K. Search an Element in an Array
+L. Count Frequency of Elements in an Array
+M. Reverse an Array
+N. Remove Duplicates from Array
+O. Merge Two Arrays
+P. Find Second Largest Element in an Array
+Q. Sort Array in Ascending Order
+R. Find Median of Array
+S. Transpose of Matrix
+T. Check If Two Arrays are Equal
+U. Find Intersection of Two Arrays
+V. Find Union of Two Array
+W. Check If Number is Armstrong
+X. Check If Number is Perfect Square
+Y. Sum of First N Odd Numbers
+Z. Find LCM of Two Numbers
