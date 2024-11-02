@@ -1,0 +1,28 @@
+A. What is an Operator?
+B. what is an Operand?
+C. what is an Operation?
+D. What is increment operator
+E. what are the types of increment operator
+F. can I increment multiple values using increment operators
+G. what are Arithmetic Operators 
+H. Write an example program using All Arithmetic and increment operators
+I. Why is the return type of equality operators in Java
+J. what are the equality operators present in java 
+K. Is there any operator present in Java to identify the type of reference 
+J. what is the purpose of instanceof operator 
+K. write a java program and create multiple objects and use instance of operator to find the type of an Object 
+L. What is compound Assignment
+M. What is the difference between compound Assignment and Assignment(=)
+N. What are bitwise operators present in java 
+O. write a java program to demonstrate bitwise operators 
+P. List out all unary operators present in Java with description 
+Q. Write a java program using bitwise operators in it, and write internal implementation as comments
+R. What are the short circuit operators and why do we need then 
+S. What is the return type of short circuit operators 
+T. List out all short circuit operators in java with description
+U. write a java program using short circuit operators and bitwise operators in it an demonstrate the difference between them
+V. What are the type cast operators present in java
+W. explain how implicit type casting works in java with example program
+X. explain how to achieve explicit type casting with java program
+Y. why explicit type casting causes data loss
+Z. is it good to type cast a value which is not in the range 
