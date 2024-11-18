@@ -1,0 +1,25 @@
+Backend Requirements:
+1. create a model classes which can communicate with databases 
+	model class: user;
+	fields: id(auto don't need to specify), first_name, last_name, username(forignken and unique), email(unique), password
+	all are not null values 
+
+	model: class: tasks;
+	fields: id, username(same as user.username), tasks, remarks,
+
+2. write controllers which can communicate with these databases.
+	register: for register controller collect first_name, last_name, username, email, password
+		and verify the user is already exist or not if user is not exist in the database then create user
+		and return a message called user created successfully 
+		If user is already crated return an error message as username is already taken
+
+	login: collect username and password and validate the user if return login successful message 
+		if not return error
+after successful login along with message send some jwt tokens for further communications 
+
+	tasks: validate the token and allow the user can perform crud operations on his field 
+	Example: creating new tasks, delete tasks, update task, and view tasks 
+
+Note: all these responses must be in the form of json;
+check everything is working or not with the help of postman
+
